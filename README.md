@@ -1,4 +1,4 @@
-# R-ya-Tabir-ve-Kay-t-Sistemi-Dream-Interpretation-System-
+# Ruya-Tabir-ve-Kayit-Sistemi-Dream-Interpretation-System-
 # 🌙 Rüya Tabir ve Kayıt Sistemi
 
 Bu proje, kullanıcıların rüyalarını tarih bazlı olarak kaydedebilecekleri, geçmiş rüyalarını görüntüleyebilecekleri ve rüya içindeki anahtar kelimelerden otomatik tabir analizi yapabilecekleri bir Python uygulamasıdır.
